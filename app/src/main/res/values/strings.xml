@@ -1,0 +1,47 @@
+<resources>
+    <!--
+    App label -->
+    <string name="app_name">hava</string>
+    <!--
+    Main title on search activity -->
+    <string name="trip_search">Trip Search</string>
+    <!--
+    Sub-title on search activity -->
+    <string name="key_word">Keyword</string>
+    <!--
+    Keyword's placeholder -->
+    <string name="keyword_hint">Enter keyword</string>
+    <!--
+    Option 1 for distance range -->
+    <string name="any">Any</string>
+    <!--
+    Option 2 for distance range -->
+    <string name="under_3">Under 3 km</string>
+    <!--
+    Option 3 for distance range -->
+    <string name="three_8">3 to 8 km</string>
+    <!--
+    Option 4 for distance range -->
+    <string name="eight_15">8 to 15 km</string>
+    <!--
+    Option 5 for distance range -->
+    <string name="fifteen_plus">More than 15 km</string>
+    <!--
+    Option 1 for distance time -->
+    <string name="any2">Any</string>
+    <!--
+    Option 2 for distance time -->
+    <string name="under_5">Under 5 min</string>
+    <!--
+    Option 3 for distance time -->
+    <string name="five_10">5 to 10 min</string>
+    <!--
+    Option 4 for distance time -->
+    <string name="ten_20">10 to 20 min</string>
+    <!--
+    Option 5 for distance time -->
+    <string name="twenty_plus">More than 20 min</string>
+    <!--
+    Option one for distance range -->
+    <!--    <string name="any">Any</string>-->
+</resources>
